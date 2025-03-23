@@ -11,3 +11,7 @@
 ### [HTTP and TCP](websockets/http-tcp.md)
 
 ### [TCP](websockets/tcp.md)
+
+### [AJAX AND COMET](websockets/ajax-comet.md)
+
+
